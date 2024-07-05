@@ -24,17 +24,16 @@ Clone the repository and build the project using gcc and pkg-config:
 
 sh
 
-git clone https://github.com/yourusername/simplebrowser.git
-cd simplebrowser
-gcc `pkg-config --cflags --libs gtk+-3.0 webkit2gtk-4.0` -o browser browser.c
+`git clone https://github.com/RKirlew/sanchovi-browser.git
+cd simplebrowser`
+`gcc `pkg-config --cflags --libs gtk+-3.0 webkit2gtk-4.0` -o browser browser.c`
 
 Usage
 
 Run the compiled binary to start the browser:
 
-sh
 
-./browser
+`./browser`
 
 Code Structure
 
