@@ -25,7 +25,7 @@ sh
 
 `git clone https://github.com/RKirlew/sanchovi-browser.git
 cd simplebrowser`
-`gcc \`pkg-config --cflags --libs gtk+-3.0 webkit2gtk-4.0\` -o browser browser.c`
+`gcc \`pkg-config --cflags --libs gtk+-3.0 webkit2gtk-4.0/` -o browser browser.c`
 
 Usage
 
