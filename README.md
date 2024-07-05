@@ -1,5 +1,5 @@
 # Sanchovi-Browser
-is a lightweight web browser built from scratch using the WebKit engine and GTK in C. This project serves as an educational tool to demonstrate how web browsers work at a fundamental level and to provide a hands-on example of using WebKit and GTK for GUI applications.
+Sanchovi is a lightweight web browser built from scratch using the WebKit engine and GTK in C. This project serves as an educational tool to demonstrate how web browsers work at a fundamental level and to provide a hands-on example of using WebKit and GTK for GUI applications.
 Features
 
     Basic web navigation (back, forward, reload)
@@ -15,8 +15,8 @@ Ensure you have the necessary development libraries installed:
 
 sh
 
-sudo apt update
-sudo apt install libgtk-3-dev libwebkit2gtk-4.0-dev
+`sudo apt update
+sudo apt install libgtk-3-dev libwebkit2gtk-4.0-dev`
 
 Building SimpleBrowser
 
