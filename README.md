@@ -2,6 +2,10 @@
 
 Sanchovi is a lightweight web browser built from scratch using the WebKit engine and GTK in C. This project serves as an educational tool to demonstrate how web browsers work at a fundamental level and to provide a hands-on example of using WebKit and GTK for GUI applications.
 
+
+![image](https://github.com/RKirlew/Sanchovi-Browser/assets/15880681/a47a779e-ced2-401c-a459-692ffb95d40c)
+
+
 ## Features
 
 - Basic web navigation (back, forward, reload)
